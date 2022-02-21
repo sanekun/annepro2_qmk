@@ -32,8 +32,7 @@ just use **annepro2_c18_kun.bin** or **annepro2_c18_default.bin** to flash.
 If you make your own layout, Install docker image(follow below section)
 
 > 1-1. Install **Docker Image** or build image
-
-`docker pull tjdrns27/annepro2:v0.2`
+> `docker pull tjdrns27/annepro2:v0.2`
 
 > 1-2. Install Docker Image or **build image**
 
