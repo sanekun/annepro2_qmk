@@ -1,9 +1,4 @@
-```
-Date = 22-02-20
-Author = Seong Kun Bak <tjdrns227@gmail.com>
-```
-
-# AnnePro2 QMK tools by Kun
+# AnnePro2 QMK tools
 
 ## Initialization
 
